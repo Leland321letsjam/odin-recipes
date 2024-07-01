@@ -1,0 +1,20 @@
+ .Recipe-Title, 
+ .Recipe-Image {
+    text-align: center;
+}
+
+.Recipe-Description {
+    color: darkgreen;
+    font-family: ;
+}
+
+h4 {
+    color: rgb(88, 88, 10);
+    font-family: courier;
+}
+
+ul,
+ol {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+}
