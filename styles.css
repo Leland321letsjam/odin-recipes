@@ -3,9 +3,15 @@
     text-align: center;
 }
 
-.Recipe-Description {
+.Recipe-Description-Title {
     color: darkgreen;
     font-family: ;
+    text-align: center;
+}
+
+.Recipe-Description {
+    text-align: center;
+    margin: 8px 8px 64px;
 }
 
 h4 {
@@ -17,4 +23,8 @@ ul,
 ol {
     font-family:'Courier New', Courier, monospace;
     font-size: 12px;
+}
+
+li {
+    margin: 8px 0;
 }
