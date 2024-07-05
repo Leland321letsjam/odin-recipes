@@ -5,11 +5,13 @@
  .Recipe-Title, 
  .Recipe-Image {
     text-align: center;
+    font-size: 48px;
 }
 
 .Recipe-Description-Title {
     color: darkgreen;
     text-align: center;
+    font-size: 30px;
 }
 
 .Recipe-Description {
@@ -21,6 +23,7 @@
 h4 {
     color: rgb(88, 88, 10);
     font-family: courier;
+    font-size: 20px;
 }
 
 ul,
@@ -39,4 +42,12 @@ li {
     background-color: lightblue;
     border: 2px solid black;
     padding: 10px 0 10px 36px;
+}
+
+.Steps li {
+    margin-bottom: 30px;
+}
+
+.Steps {
+    padding-bottom: 0px;
 }
